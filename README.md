@@ -6,10 +6,10 @@ Live: https://bankist-rka.netlify.app/
 Login Credentials:
 
 Account1:
-username: js
+username: js,
 pass: 1111
 
 Account2:
-username: jd
+username: jd,
 pass: 2222
   
